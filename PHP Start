@@ -1,0 +1,7 @@
+<?php
+
+
+
+echo 'I was printed 5 seconds later!';
+sleep(2);
+echo 'I was printed 5 later!';
